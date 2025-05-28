@@ -47,7 +47,7 @@ resultado = 11 * 2 + 7
 print(resultado)
 
 
-resultado = (((15 - 3) * 8) / 2)
+resultado = ((3 * 8) - 15 )/ 2
 print(resultado)
 
 resultado = 2**10
